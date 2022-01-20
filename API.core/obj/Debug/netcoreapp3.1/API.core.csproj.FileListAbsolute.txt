@@ -1,0 +1,9 @@
+C:\Users\Otaibah toppsh\source\repos\API\API.core\bin\Debug\netcoreapp3.1\API.core.deps.json
+C:\Users\Otaibah toppsh\source\repos\API\API.core\bin\Debug\netcoreapp3.1\API.core.dll
+C:\Users\Otaibah toppsh\source\repos\API\API.core\bin\Debug\netcoreapp3.1\API.core.pdb
+C:\Users\Otaibah toppsh\source\repos\API\API.core\obj\Debug\netcoreapp3.1\API.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otaibah toppsh\source\repos\API\API.core\obj\Debug\netcoreapp3.1\API.core.AssemblyInfoInputs.cache
+C:\Users\Otaibah toppsh\source\repos\API\API.core\obj\Debug\netcoreapp3.1\API.core.AssemblyInfo.cs
+C:\Users\Otaibah toppsh\source\repos\API\API.core\obj\Debug\netcoreapp3.1\API.core.csproj.CoreCompileInputs.cache
+C:\Users\Otaibah toppsh\source\repos\API\API.core\obj\Debug\netcoreapp3.1\API.core.dll
+C:\Users\Otaibah toppsh\source\repos\API\API.core\obj\Debug\netcoreapp3.1\API.core.pdb

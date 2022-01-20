@@ -1,0 +1,13 @@
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\bin\Debug\netcoreapp3.1\API.infra.deps.json
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\bin\Debug\netcoreapp3.1\API.infra.dll
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\bin\Debug\netcoreapp3.1\API.infra.pdb
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\bin\Debug\netcoreapp3.1\API.core.dll
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\bin\Debug\netcoreapp3.1\API.core.pdb
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.csproj.AssemblyReference.cache
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.AssemblyInfoInputs.cache
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.AssemblyInfo.cs
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.csproj.CoreCompileInputs.cache
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.csproj.CopyComplete
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.dll
+C:\Users\Otaibah toppsh\source\repos\API\API.infra\obj\Debug\netcoreapp3.1\API.infra.pdb
